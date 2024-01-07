@@ -5,7 +5,7 @@ const { USER_EMAIL, USER_PASSWORD } = require("../config/credentials");
 const SMTP_PORT = 587;
 const HOST_SERVICE = "smtp-relay.sendinblue.com";
 const SENDER_EMAIL = USER_EMAIL;
-const RECEIVER_EMAIL = "rohan.bharati@orchids.edu.in";
+const RECEIVER_EMAIL = "pm21641@gmail.com";
 const CC = [];
 const BCC = [];
 
